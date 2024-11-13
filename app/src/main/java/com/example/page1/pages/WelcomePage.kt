@@ -62,7 +62,7 @@ fun WelcomePage(modifier: Modifier = Modifier, navController: NavController, aut
 
             // App Title
             Text(
-                text = "Sorcery Coffee Roaster",
+                text = "Sorcery Coffee Roaster-kate was here",
                 color = Color.White,
                 fontSize = 28.sp,
                 fontWeight = FontWeight.Bold
